@@ -14,7 +14,7 @@
    
     font-family: Arial, sans-serif;
 
-
+    //customized fonts
 }
 
 .login-box {
