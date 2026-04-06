@@ -10,6 +10,7 @@
             font-family: Arial;
             background-color: #f4f6f8;
         }
+
         .card {
             width: 420px;
             margin: 40px auto;
