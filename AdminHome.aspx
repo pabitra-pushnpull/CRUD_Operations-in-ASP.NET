@@ -41,6 +41,7 @@
         margin-left: 350px;
         margin-top:10px;
     }
+
     #adminInsertBtn
     {
         margin-top:120px;
