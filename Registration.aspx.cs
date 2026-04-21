@@ -61,7 +61,7 @@ namespace webApplication
 
             if (string.IsNullOrEmpty(rblIsAdmin.SelectedValue))
             {
-                lblMsgAdmin.Text = "Please select any one option!";
+                lblMsgAdmin.Text = "Please select any one option !";
                 return;
             }
 
