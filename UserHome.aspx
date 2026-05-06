@@ -18,6 +18,7 @@
 
     .wel h3
     {
+
         background-color:#87BAC3;
         text-align:center;
     }
