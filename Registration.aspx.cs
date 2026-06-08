@@ -54,13 +54,14 @@ namespace webApplication
 
             if (gender.Equals(" !!Select any one!! "))
             {
-                lblMessageDDL.Text = "Please Select a Valid Gender";
+                lblMessageDDL.Text = "Please Select a Valid Gender!";
+                
                 return;
             }
 
             if (string.IsNullOrEmpty(rblIsAdmin.SelectedValue))
             {
-                lblMsgAdmin.Text = "Please select any one option!";
+                lblMsgAdmin.Text = "Please select any one option !";
                 return;
             }
 
