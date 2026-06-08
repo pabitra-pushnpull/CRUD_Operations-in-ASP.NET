@@ -89,7 +89,7 @@ label {
             </div>
 
             <div class="form-group">
-                <label>Email <span class="required">*</span></label>
+                <label>E-mail <span class="required">*</span></label>
                 <asp:TextBox ID="txtEmail" runat="server" TextMode="Email" CssClass="input" required></asp:TextBox>
             </div>
 
