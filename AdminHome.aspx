@@ -90,7 +90,7 @@
 
     <Columns>
         <asp:BoundField DataField="FullName" HeaderText="Full Name" />
-        <asp:BoundField DataField="Email" HeaderText="Email" />
+        <asp:BoundField DataField="Email" HeaderText="E-mail" />
         <asp:BoundField DataField="mobile" HeaderText="Mobile" />
         <asp:BoundField DataField="password" HeaderText="Password" />
         <asp:BoundField DataField="gender" HeaderText="Gender" />
