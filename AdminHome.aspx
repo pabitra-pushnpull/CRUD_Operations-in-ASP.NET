@@ -11,7 +11,7 @@
     }
     .head h1
     {
-        margin: 0;
+        margin: 0px;
         background-color: #8FABD4;
         text-align:center;
     }
