@@ -85,7 +85,7 @@
     <label>Gender</label>
     <asp:DropDownList ID="ddlGender" runat="server" CssClass="dropd"> 
         <asp:ListItem>Male</asp:ListItem>
-        <asp:ListItem>Female</asp:ListItem>
+        <asp:ListItem>Fe-male</asp:ListItem>
         <asp:ListItem>Others</asp:ListItem>
     </asp:DropDownList>
     
